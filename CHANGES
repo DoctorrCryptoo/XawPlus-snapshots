@@ -35,7 +35,7 @@
 	* package/debian/rules:
 	revised to get hardening flags and put the library in the multiarch directory
 
-	* package/debian/control: fix lintian warnings
+	* package/debian/control: fix lintian warnings /// nice
 
 	* package/debian/copyright, X11/XawPlus/ScrollbarP.h,
 	  X11/XawPlus/AsciiSink.h, X11/XawPlus/AsciiSinkP.h,
